@@ -1,4 +1,6 @@
-# Project-1: Finding Lane Lines on the Road
+# Finding Lane Lines on the Road
+
+__Note__: Please refer this [link](Project-1-Finding-Lane-Lines.html) for detailed write-up with images. Same available on my [site](https://sujithvn.me) as well.
 
 ## Reflection
 
